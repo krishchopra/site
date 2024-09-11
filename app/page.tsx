@@ -8,7 +8,7 @@ import DevpostIcon from "./components/DevpostIcon";
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-12 sm:p-8">
-      <div className="w-full max-w-2xl space-y-6 text-black dark:text-white">
+      <div className="w-full max-w-2xl space-y-6 text-white">
         <h1 className="text-5xl sm:text-6xl font-bold text-center">Krish Chopra</h1>
         <p className="mb-4 pt-6 text-lg sm:text-[21px]">
           Hey there! I&apos;m Krish — a second-year Computer Science & Business
@@ -44,7 +44,7 @@ export default function Home() {
           >
             <FontAwesomeIcon
               icon={faAddressCard}
-              className="icon text-gray-700 hover:text-gray-900 dark:text-gray-300 dark:hover:text-white transition-all duration-200 ease-in-out hover:scale-110"
+              className="icon text-gray-300 hover:text-white transition-all duration-200 ease-in-out hover:scale-110"
             />
           </Link>
           <Link
@@ -54,7 +54,7 @@ export default function Home() {
           >
             <FontAwesomeIcon
               icon={faGithub}
-              className="icon text-gray-700 hover:text-gray-900 dark:text-gray-300 dark:hover:text-white transition-all duration-200 ease-in-out hover:scale-110"
+              className="icon text-gray-300 hover:text-white transition-all duration-200 ease-in-out hover:scale-110"
             />
           </Link>
           <Link
@@ -64,7 +64,7 @@ export default function Home() {
           >
             <FontAwesomeIcon
               icon={faLinkedin}
-              className="icon text-gray-700 hover:text-gray-900 dark:text-gray-300 dark:hover:text-white transition-all duration-200 ease-in-out hover:scale-110"
+              className="icon text-gray-300 hover:text-white transition-all duration-200 ease-in-out hover:scale-110"
             />
           </Link>
           <Link
@@ -72,7 +72,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <DevpostIcon className="icon text-gray-700 hover:text-gray-900 dark:text-gray-300 dark:hover:text-white transition-all duration-200 ease-in-out hover:scale-110" />
+            <DevpostIcon className="icon text-gray-300 hover:text-white transition-all duration-200 ease-in-out hover:scale-110" />
           </Link>
           <Link
             href="mailto:krish.chopra@uwaterloo.ca"
@@ -81,7 +81,7 @@ export default function Home() {
           >
             <FontAwesomeIcon
               icon={faEnvelope}
-              className="icon text-gray-700 hover:text-gray-900 dark:text-gray-300 dark:hover:text-white transition-all duration-200 ease-in-out hover:scale-110"
+              className="icon text-gray-300 hover:text-white transition-all duration-200 ease-in-out hover:scale-110"
             />
           </Link>
         </div>
