@@ -9,17 +9,49 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-12 sm:p-8">
       <div className="w-full max-w-2xl space-y-6 text-white">
-        <h1 className="text-5xl sm:text-6xl font-bold text-center">Krish Chopra</h1>
+        <h1 className="text-5xl sm:text-6xl font-bold text-center">
+          Krish Chopra
+        </h1>
         <p className="mb-4 pt-6 text-lg sm:text-[21px]">
-          Hey there! I&apos;m Krish — a second-year Computer Science & Business
-          Administration student at the University of Waterloo, passionate about
-          emerging technologies and entrepreneurship.
+          Hey there! I&apos;m Krish — a Computer Science & Business
+          Administration student at the {" "}
+          <a
+            href="https://uwaterloo.ca/"
+            className="hover:underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            University of Waterloo
+          </a>
+          , passionate about emerging technologies and entrepreneurship.
         </p>
         <p className="mb-6 text-lg sm:text-[21px]">
           I love developing innovative, scalable solutions to real-world
           problems through software projects and pitch/case competitions.
           I&apos;m particularly interested in building products that have a
           positive social impact in the education and sustainability space.
+        </p>
+        <p className="mb-6 text-lg sm:text-[21px]">
+          My past experience includes working as a full-stack software
+          engineering intern at{" "}
+          <a
+            href="https://www.ycombinator.com/companies/garage-2"
+            className="hover:underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Garage
+          </a>{" "}
+          (a seed stage YC startup based in New York City), as well as at the{" "}
+          <a
+            href="https://www.rbc.com/about-rbc.html"
+            className="hover:underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Royal Bank of Canada
+          </a>
+          .
         </p>
         <p className="mb-6 text-lg sm:text-[21px]">
           When I&apos;m not coding, you can usually find me singing karaoke,
@@ -36,7 +68,13 @@ export default function Home() {
           </a>
           .
         </p>
-        <div className="flex justify-center space-x-5 sm:space-x-8 pt-8" style={{ containerType: 'inline-size', containerName: 'icon-container' }}>
+        <div
+          className="flex justify-center space-x-5 sm:space-x-8 pt-8"
+          style={{
+            containerType: "inline-size",
+            containerName: "icon-container",
+          }}
+        >
           <Link
             href="/files/resume.pdf"
             target="_blank"
