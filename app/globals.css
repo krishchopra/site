@@ -4,15 +4,15 @@
 
 :root {
   --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+  --background-start-rgb: 0, 0, 90; /* dark blue */
+  --background-end-rgb: 0, 0, 0; /* black */
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
+    --background-start-rgb: 0, 0, 90; /* dark blue */
+    --background-end-rgb: 0, 0, 0; /* black */
   }
 }
 
@@ -31,3 +31,14 @@ body {
     text-wrap: balance;
   }
 }
+
+.icon {
+  font-size: 4em; /* default icon size */
+}
+
+@container icon-container (max-width: 600px) {
+  .icon {
+    font-size: 3em; /* smaller icon size for mobile */
+  }
+}
+
