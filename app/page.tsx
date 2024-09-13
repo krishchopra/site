@@ -12,7 +12,7 @@ export default function Home() {
         <h1 className="text-5xl sm:text-6xl font-bold text-center">
           Krish Chopra
         </h1>
-        <p className="mb-4 pt-6 text-lg sm:text-[20px]">
+        <p className="mb-4 pt-6 text-lg sm:text-[21px]">
           Hey there! I&apos;m Krish — a Computer Science & Business
           Administration student at the {" "}
           <a
@@ -25,13 +25,13 @@ export default function Home() {
           </a>
           , passionate about emerging technologies and entrepreneurship.
         </p>
-        <p className="mb-6 text-lg sm:text-[20px]">
+        <p className="mb-6 text-lg sm:text-[21px]">
           I love developing innovative, scalable solutions to real-world
           problems through software projects and pitch/case competitions.
           I&apos;m particularly interested in building products that have a
           positive social impact in the education and sustainability space.
         </p>
-        <p className="mb-6 text-lg sm:text-[20px]">
+        <p className="mb-6 text-lg sm:text-[21px]">
           My past experience includes working as a full-stack software
           engineering intern at{" "}
           <a
@@ -53,7 +53,7 @@ export default function Home() {
           </a>
           .
         </p>
-        <p className="mb-6 text-lg sm:text-[20px]">
+        <p className="mb-6 text-lg sm:text-[21px]">
           When I&apos;m not coding, you can usually find me singing karaoke,
           playing tennis, or practicing magic tricks. If you&apos;d like to
           connect about potential opportunities or even just chat, feel free to
@@ -69,7 +69,7 @@ export default function Home() {
           .
         </p>
         <div
-          className="flex justify-center space-x-5 sm:space-x-8 pt-5"
+          className="flex justify-center space-x-5 sm:space-x-8 pt-8"
           style={{
             containerType: "inline-size",
             containerName: "icon-container",
