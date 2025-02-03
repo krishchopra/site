@@ -34,7 +34,7 @@ export default function Home() {
 					and sustainability space.
 				</p>
 				<p className="mb-6 text-lg sm:text-[19px]">
-					Currently, I'm a software engineer intern at{" "}
+					Currently, I&apos;m a software engineer intern at{" "}
 					<a
 						href="https://birdseyepost.com"
 						className="hover:underline"
