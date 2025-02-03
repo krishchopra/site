@@ -43,7 +43,7 @@ export default function Home() {
 					>
 						BirdseyePost
 					</a>
-					, where I'm building AI-powered marketing tools to reinvent
+					, building AI-powered marketing tools to reinvent
 					the way that direct mail is sent. My past experience
 					includes working as a full-stack engineer intern at{" "}
 					<a
@@ -54,7 +54,7 @@ export default function Home() {
 					>
 						Garage
 					</a>{" "}
-					(a seed stage YC-backed startup), as well as at{" "}
+					(a seed stage YC-backed startup based in New York), as well as at{" "}
 					<a
 						href="https://www.rbc.com/about-rbc.html"
 						className="hover:underline"
