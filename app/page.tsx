@@ -65,7 +65,7 @@ export default function Home() {
         </p>
         <p className="mb-6 text-lg sm:text-[19px]">
           When I&apos;m not coding, you can usually find me singing karaoke,
-          playing tennis, or practicing magic tricks. If you&apos;d like to
+          playing badminton, or practicing magic tricks. If you&apos;d like to
           connect about potential opportunities or even just chat, feel free to
           reach out anytime at:{" "}
           <a
