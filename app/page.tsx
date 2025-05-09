@@ -26,10 +26,10 @@ export default function Home() {
         </p>
         <p className="mb-6 text-lg sm:text-[19px]">
           I love developing innovative, scalable solutions to real-world
-          problems through software projects, hackathons, and pitch/case
-          competitions. I&apos;m particularly interested in building products
-          that have a positive social impact in the education and sustainability
-          space.
+          problems through software projects, hackathons (I&apos;ve been to 15+ 🚀), 
+		  and pitch competitions. I&apos;m particularly interested in building 
+		  products that have a positive social impact in the education and 
+		  sustainability space.
         </p>
         <p className="mb-6 text-lg sm:text-[19px]">
           Most recently, I was a software engineer intern at{" "}
@@ -52,7 +52,7 @@ export default function Home() {
           >
             Garage
           </a>{" "}
-          (a seed stage YC-backed startup in New York), as well as at{" "}
+          (a seed stage YC-backed startup based in New York) and{" "}
           <a
             href="https://www.rbc.com/about-rbc.html"
             className="hover:underline"
