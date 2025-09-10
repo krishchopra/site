@@ -13,7 +13,7 @@ export default function Home() {
           Krish Chopra
         </h1>
         <p className="mb-4 pt-6 text-lg sm:text-[19px]">
-          Hey there! I&apos;m Krish — a Computer Science student at the{" "}
+          Hey there! I&apos;m Krish — a Computer Science student at the {" "}
           <a
             href="https://uwaterloo.ca/"
             className="hover:underline"
