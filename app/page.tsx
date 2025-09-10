@@ -22,17 +22,37 @@ export default function Home() {
           >
             University of Waterloo
           </a>
-          , passionate about emerging technologies and entrepreneurship.
+          , with a specialization in Artificial Intelligence and Business.
         </p>
         <p className="mb-6 text-lg sm:text-[19px]">
-          I love developing innovative, scalable solutions to real-world
-          problems through software projects, hackathons (I&apos;ve been to 15+ 🚀), 
-		  and pitch competitions. I&apos;m particularly interested in building 
-		  products that have a positive social impact in the education and 
-		  sustainability space.
+          I love developing innovative, scalable solutions to real-world (and
+          trivial) problems through software projects / attending hackathons
+          (I&apos;ve been to 15 and counting)! 🚀 I&apos;m particularly
+          interested in agentic AI for consumers and building products with a
+          positive social impact in the education space.
         </p>
         <p className="mb-6 text-lg sm:text-[19px]">
-          Most recently, I was a software engineer intern at{" "}
+          Currently, I&apos;m in Boston as a software engineer intern at{" "}
+          <a
+            href="https://suno.com"
+            className="hover:underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Suno
+          </a>{" "}
+          — building an AI platform to bring music creation into the hands of
+          anyone, anywhere. On the side, I'm also helping build the Duolingo for
+          relationships at{" "}
+          <a
+            href="https://trycandle.app"
+            className="hover:underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Candle (YC F24)
+          </a>
+          . My past experience includes full-stack SWE at{" "}
           <a
             href="https://birdseyepost.com"
             className="hover:underline"
@@ -41,18 +61,7 @@ export default function Home() {
           >
             BirdseyePost
           </a>
-          , building AI-powered marketing tools to reinvent the way that direct
-          mail is sent. My past experience also includes working as a full-stack
-          engineer intern at{" "}
-          <a
-            href="https://www.ycombinator.com/companies/garage-2"
-            className="hover:underline"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Garage
-          </a>{" "}
-          (a seed stage YC-backed startup based in New York) and{" "}
+          ,{" "}
           <a
             href="https://www.rbc.com/about-rbc.html"
             className="hover:underline"
@@ -61,13 +70,22 @@ export default function Home() {
           >
             RBC
           </a>
-          .
+          , and{" "}
+          <a
+            href="https://www.ycombinator.com/companies/garage-2"
+            className="hover:underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Garage (YC W24)
+          </a>
+          , where I was the first engineering hire.
         </p>
         <p className="mb-6 text-lg sm:text-[19px]">
-          When I&apos;m not coding, you can usually find me singing karaoke,
-          playing badminton, or practicing magic tricks. If you&apos;d like to
-          connect about potential opportunities or even just chat, feel free to
-          reach out anytime at:{" "}
+          These days (when I&apos;m not coding), you can usually find me playing
+          guitar and singing, practicing magic tricks, or trying to do more pull
+          ups. If you&apos;d like to connect about potential opportunities or
+          even just chat, check out the links below and reach out anytime at:{" "}
           <a
             href="mailto:krish.chopra@uwaterloo.ca"
             className="hover:underline"
