@@ -13,7 +13,7 @@ export default function Home() {
           Krish Chopra
         </h1>
         <p className="mb-4 pt-6 text-lg sm:text-[19px]">
-          Hey there! I&apos;m Krish — a Computer Science student at the {" "}
+          Hey there! I&apos;m Krish — a Computer Science student at the{" "}
           <a
             href="https://uwaterloo.ca/"
             className="hover:underline"
@@ -83,9 +83,10 @@ export default function Home() {
         </p>
         <p className="mb-6 text-lg sm:text-[19px]">
           These days (when I&apos;m not coding), you can usually find me playing
-          guitar and singing, practicing magic tricks, or trying to do more pull
-          ups. If you&apos;d like to connect about potential opportunities or
-          even just chat, check out the links below and reach out anytime at:{" "}
+          guitar and singing, practicing magic tricks, or trying to do more
+          push/pull-ups. If you&apos;d like to connect about potential
+          opportunities or even just chat, check out the links below and reach
+          out anytime at:{" "}
           <a
             href="mailto:krish.chopra@uwaterloo.ca"
             className="hover:underline"
