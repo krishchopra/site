@@ -42,8 +42,8 @@ export default function Home() {
             Suno
           </a>{" "}
           — building an AI platform to bring music creation into the hands of
-          anyone, anywhere. On the side, I'm also helping build the Duolingo for
-          relationships at{" "}
+          anyone, anywhere. On the side, I&apos;m also helping build the
+          Duolingo for relationships at{" "}
           <a
             href="https://trycandle.app"
             className="hover:underline"
