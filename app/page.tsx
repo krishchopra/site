@@ -25,9 +25,9 @@ export default function Home() {
           , with a specialization in Artificial Intelligence and Business.
         </p>
         <p className="mb-6 text-lg sm:text-[19px]">
-          I love developing innovative, scalable solutions to real-world (and
-          trivial) problems through software projects / attending hackathons
-          (I&apos;ve been to 15 and counting)! 🚀 I&apos;m particularly
+          I love architecting innovative solutions to important (or just
+          trivial) problems through software projects + attending hackathons
+          (I&apos;ve been to 16 and counting)! 🚀 I&apos;m particularly
           interested in agentic AI for consumers and building products with a
           positive social impact in the education space.
         </p>
