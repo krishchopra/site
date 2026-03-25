@@ -13,7 +13,7 @@ export default function Home() {
           Krish Chopra
         </h1>
         <p className="mb-4 pt-6 text-lg sm:text-[19px]">
-          Hey there! I&apos;m Krish — a Computer Science student at the {" "}
+          Hey there! I&apos;m Krish — a Computer Science student at the{" "}
           <a
             href="https://uwaterloo.ca/"
             className="hover:underline"
@@ -32,7 +32,7 @@ export default function Home() {
           positive social impact in the education space.
         </p>
         <p className="mb-6 text-lg sm:text-[19px]">
-          Currently, I&apos;m in Boston as a software engineer intern at{" "}
+          Most recently, I was in Boston as a software engineer intern at{" "}
           <a
             href="https://suno.com"
             className="hover:underline"
@@ -41,9 +41,9 @@ export default function Home() {
           >
             Suno
           </a>{" "}
-          — building an AI platform to bring music creation into the hands of
-          anyone, anywhere. On the side, I&apos;m also helping build the
-          Duolingo for relationships at{" "}
+          — an AI platform bringing music creation into the hands of anyone,
+          anywhere. On the side, I&apos;m helping build the Duolingo for
+          relationships at{" "}
           <a
             href="https://trycandle.app"
             className="hover:underline"
@@ -52,7 +52,7 @@ export default function Home() {
           >
             Candle (YC F24)
           </a>
-          . My past experience includes full-stack SWE at{" "}
+          . My past experience also includes SWE at{" "}
           <a
             href="https://birdseyepost.com"
             className="hover:underline"
