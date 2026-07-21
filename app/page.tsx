@@ -26,13 +26,21 @@ export default function Home() {
         </p>
         <p className="mb-6 text-lg sm:text-[19px]">
           I love architecting innovative solutions to important (or just
-          trivial) problems through software projects + attending hackathons
-          (I&apos;ve been to 16 and counting)! 🚀 I&apos;m particularly
-          interested in agentic AI for consumers and building products with a
+          trivial) problems through software projects and hackathons (I lost count after the 15th 🚀)...
+          I&apos;m particularly interested in agentic AI for consumers and building products with a
           positive social impact in the education space.
         </p>
         <p className="mb-6 text-lg sm:text-[19px]">
-          Most recently, I was in Boston as a software engineer intern at{" "}
+          Currently, I'm a production engineer intern at{" "}
+          <a
+            href="https://meta.com"
+            className="hover:underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Meta
+          </a>
+          , building data infrastructure for the ads team. And most recently, I was a software engineer intern at{" "}
           <a
             href="https://suno.com"
             className="hover:underline"
@@ -41,18 +49,7 @@ export default function Home() {
           >
             Suno
           </a>{" "}
-          — an AI platform bringing music creation into the hands of anyone,
-          anywhere. On the side, I&apos;m helping build the Duolingo for
-          relationships at{" "}
-          <a
-            href="https://trycandle.app"
-            className="hover:underline"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Candle (YC F24)
-          </a>
-          . My past experience also includes SWE at{" "}
+          — an AI platform democratizing music creation and discovery. My past experience also includes SWE at{" "}
           <a
             href="https://birdseyepost.com"
             className="hover:underline"
