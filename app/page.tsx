@@ -27,8 +27,7 @@ export default function Home() {
         <p className="mb-6 text-lg sm:text-[19px]">
           I love architecting innovative solutions to important (or just
           trivial) problems through software projects and hackathons (I lost count after the 15th 🚀)...
-          I&apos;m particularly interested in agentic AI for consumers and building products with a
-          positive social impact in the education space.
+          I&apos;m particularly interested in agentic AI for consumers and building socially impactful products, especially in the education space.
         </p>
         <p className="mb-6 text-lg sm:text-[19px]">
           Currently, I'm a production engineer intern at{" "}
