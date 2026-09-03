@@ -22,16 +22,17 @@ export default function Home() {
           >
             University of Waterloo
           </a>
-          , with a specialization in Artificial Intelligence and Business.
+          , pursuing a specialization in Artificial Intelligence and Business.
         </p>
         <p className="mb-6 text-lg sm:text-[19px]">
           I love architecting innovative solutions to important (or just
-          trivial) problems through software projects and hackathons (I lost count after the 15th 🚀)...
-          I&apos;m particularly interested in agentic AI for consumers and building socially impactful products, 
+          trivial) problems through software projects and hackathons (I lost
+          count after the 15th 🚀)... I&apos;m particularly interested in
+          agentic AI for consumers and building socially impactful products,
           especially in the education space.
         </p>
         <p className="mb-6 text-lg sm:text-[19px]">
-          Currently, I'm a production engineer intern at{" "}
+          This past summer, I was a production engineer intern at{" "}
           <a
             href="https://meta.com"
             className="hover:underline"
@@ -40,7 +41,8 @@ export default function Home() {
           >
             Meta
           </a>
-          , building data infrastructure for the ads team. And most recently, I was a software engineer intern at{" "}
+          , building data / alerting infrastructure for the ads team. Before
+          that, I was a software engineer intern at{" "}
           <a
             href="https://suno.com"
             className="hover:underline"
@@ -49,7 +51,8 @@ export default function Home() {
           >
             Suno
           </a>{" "}
-          — an AI platform democratizing music creation and discovery. My past experience also includes SWE at{" "}
+          — an AI platform democratizing music creation and discovery. My past
+          experience also includes SWE at{" "}
           <a
             href="https://birdseyepost.com"
             className="hover:underline"
