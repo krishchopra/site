@@ -41,8 +41,8 @@ export default function Home() {
           >
             Meta
           </a>
-          , building data / alerting infrastructure for the ads team. Before
-          that, I was a software engineer intern at{" "}
+          , building alerting infrastructure for the ads data team. Before that,
+          I was a software engineer intern at{" "}
           <a
             href="https://suno.com"
             className="hover:underline"
